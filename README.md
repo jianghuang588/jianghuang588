@@ -1,4 +1,4 @@
-https://i.gifer.com/KOSZ.gif
+![picture](https://github.com/user-attachments/assets/439bef1c-6b38-4bda-9279-a44d16e6e9fd)
 <h1 align="center">Hi 👋, I'm Huang Jiang</h1>
 <h3 align="center">A Passionate Frontend Developer from China</h3>
 
