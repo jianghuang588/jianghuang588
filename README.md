@@ -1,6 +1,6 @@
+![picture](https://github.com/user-attachments/assets/439bef1c-6b38-4bda-9279-a44d16e6e9fd)
 <h1 align="center">Hi 👋, I'm Huang Jiang</h1>
 <h3 align="center">A Passionate Frontend Developer from China</h3>
-![picture](https://github.com/user-attachments/assets/439bef1c-6b38-4bda-9279-a44d16e6e9fd)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huangjiang&label=Profile%20views&color=0e75b6&style=flat" alt="huangjiang" /> </p>
 
