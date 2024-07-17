@@ -1,4 +1,6 @@
-![picture](https://github.com/user-attachments/assets/439bef1c-6b38-4bda-9279-a44d16e6e9fd)
+![Jul-17-2024 17-18-21](https://github.com/user-attachments/assets/f5ffeaa9-12bb-4b5a-978c-a9c67566cdda)
+
+
 <h1 align="center">Hi 👋, I'm Huang Jiang</h1>
 <h3 align="center">A Passionate Frontend Developer from China</h3>
 
